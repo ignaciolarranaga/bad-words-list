@@ -1,0 +1,25 @@
+{
+  "name": "profane-word-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build needed\"",
+    "version" : "git add -A .",
+    "postversion" : "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignaciolarranaga/profane-word-list.git"
+  },
+  "keywords": [
+    "bad words"
+  ],
+  "author": "Ignacio Larrañaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignaciolarranaga/profane-word-list/issues"
+  },
+  "homepage": "https://github.com/ignaciolarranaga/profane-word-list#readme"
+}
