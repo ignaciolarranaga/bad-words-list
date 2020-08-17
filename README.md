@@ -1,1 +1,1 @@
-# bad-words-list
+# profane-word-list
